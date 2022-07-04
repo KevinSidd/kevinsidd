@@ -25,7 +25,7 @@
 • I have intrest in MineCraft, Discord, various diffrent games for PC as well as Mobile Phone.\
 • And ya I am not much active on various platforms including Github for some time.
 
-#### - ⚙ Learning Flutter  <code><img height="20" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"></code>,Swift <code> <img height="20" width="16" src="https://pluralsight2.imgix.net/paths/images/swift-ae81d7c6b0.png"> </code> & SQL Advanced <code><img height="20" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"></code>.
+#### - ⚙ Learning JavaScript  <code><img height="20" src="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg"></code>,Java <code> <img height="20" width="16" src="https://icon-icons.com/icon/java-original-logo/146458"> </code> & SQL Advanced <code><img height="20" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"></code>.
 
 
 
