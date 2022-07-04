@@ -25,7 +25,7 @@
 • I have intrest in MineCraft, Discord, various diffrent games for PC as well as Mobile Phone.\
 • And ya I am not much active on various platforms including Github for some time.
 
-#### - ⚙ Learning JavaScript  <code><img height="20" src="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg"></code>,Java <code> <img height="20" width="16" src="https://icon-icons.com/icon/java-original-logo/146458"> </code> & SQL Advanced <code><img height="20" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"></code>.
+#### - ⚙ Learning JavaScript  <code><img height="20" src="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg"></code>,Java <code> <img height="20" width="16" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"> </code> & SQL Advanced <code><img height="20" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"></code>.
 
 
 
