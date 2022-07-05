@@ -20,7 +20,7 @@
                   
 ### About Me
 • [He/Him] \
-• Hello, I am Kevin Jain 18 y/o from India a Prosperous Country in South Asia. \
+• Hello, I am Kevin Siddhpura 18 y/o from India a Prosperous Country in South Asia. \
   I love to develope various new things and get a unquie satisfaction after watching the results.\
 • I have intrest in MineCraft, Discord, various diffrent games for PC as well as Mobile Phone.\
 • And ya I am not much active on various platforms including Github for some time.
