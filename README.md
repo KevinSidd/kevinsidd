@@ -31,13 +31,9 @@
 
 
 #### - ⚽ A guy who just want to Learn stuff! , 
-
-#### - 🍕 Foodie ,
-
 #### - 💬 Wanna talk?<br>
 <img align="middle" src="https://discord.c99.nl/widget/theme-1/528627987667615755.png">
 </p>
-
 
 <br />
 
