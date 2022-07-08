@@ -17,20 +17,17 @@
 <a href="siddhpurakevin@gmail.com">
   <img align="left" alt=" Mail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
 </a>
+<br/>
                   
 ### About Me
 • [He/Him] \
 • Hello, I am Kevin Siddhpura 18 y/o from India a Prosperous Country in South Asia. \
-  I love to develope various new things and get a unquie satisfaction after watching the results.\
+•  I love to develope various new things and get a unquie satisfaction after watching the results.\
 • I have intrest in MineCraft, Discord, various diffrent games for PC as well as Mobile Phone.\
 • And ya I am not much active on various platforms including Github for some time.
 
 #### - ⚙ Learning JavaScript  <code><img height="20" src="https://www.kindpng.com/picc/m/67-678384_transparent-javascript-icon-png-png-download.png"></code>,Java <code> <img height="20" width="16" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"> </code> & SQL Advanced <code><img height="20" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"></code>.
 
-
-
-
-#### - ⚽ A guy who just want to Learn stuff! , 
 #### - 💬 Wanna talk?<br>
 <img align="middle" src="https://discord.c99.nl/widget/theme-1/528627987667615755.png">
 </p>
