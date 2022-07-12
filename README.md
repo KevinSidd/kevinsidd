@@ -33,11 +33,6 @@
 </p>
 
 <br />
-
-
-**I like the following stuff**
-
-**Application Devlopment , Web Development, SEO, API Handeling , System Design,  Linux ,Bot Devlopment**
 <br />
 
 
