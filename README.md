@@ -27,6 +27,11 @@
 
 #### ⚽ A guy who just want to Learn stuff! , 
 
+#### 💬 Wanna talk?<br>
+<img align="middle" src="https://discord.c99.nl/widget/theme-4/528627987667615755.png">
+</p>
+
+
 #### 🍕 Foodie ,
 
 ### I like the following stuff
