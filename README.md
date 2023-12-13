@@ -1,26 +1,6 @@
-### Hi there, I'm Kevin Siddhpura also known as KevinSidd 👋.
-
-<br/>
-<a href="https://twitter.com/@kevin_sidd/">
-  <img align="left" alt="Kevin Siddhpura| Twitter" width="22px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
-</a>
-<a href="https://t.me/kevinsidd/">
-  <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" />
-</a>
-<a href="https://www.instagram.com/siddhpurakevin/">
-  <img align="left" alt="Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
-</a>
-<a href="https://dsc.bio/kevinsidd">
-  <img align="left" alt="Profile" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-u2013-swiss-geeks-23.png" />
-</a>
-<a href="siddhpurakevin@gmail.com">
-  <img align="left" alt=" Mail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
-</a>
-
-‎ 
 ### About Me
 • [He/Him] \
-• Hello, I am Kevin Siddhpura 18 y/o from India a Prosperous Country in South Asia. \
+• Hello, I am Kevin Siddhpura 19 y/o from India a Prosperous Country in South Asia. \
 • I love to develop various new things and get a unquie satisfaction after watching the results.\
 • And ya I am not much active on various platforms including Github for some time. \
 • **[kvin.in](https://kvin.in)**
