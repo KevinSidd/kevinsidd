@@ -3,7 +3,7 @@
 • Hello, I am Kevin Siddhpura 19 y/o from India a Prosperous Country in South Asia. \
 • I love to develop various new things and get a unquie satisfaction after watching the results.\
 • And ya I am not much active on various platforms including Github for some time. \
-• **[kvin.in](https://kvin.in)**
+• Reach me via [**Discord**](https://discord.kwin.in)
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KevinSidd&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
